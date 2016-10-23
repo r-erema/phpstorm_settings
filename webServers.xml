@@ -1,0 +1,44 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="649d0b7f-f33f-453f-ae5c-23e66a73961d" name="profizru@ru.commontools.net" url="http://ru.commontools.net">
+        <fileTransfer host="ru.commontools.net" port="22" rootFolder="/h/profizru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f7736533-9deb-4589-8db3-d6f54ed7fba1" name="gutsout@magby.commontools.net" url="http://magby.commontools.net">
+        <fileTransfer host="magby.commontools.net" port="22" rootFolder="/home/gutsout" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a6b33eed-6cb4-42d1-8b9b-f6d09c87e7ea" name="securenews@securenews.ru" url="http://securenews.ru">
+        <fileTransfer host="securenews.ru" port="8022" rootFolder="/h/securenews" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="80e7decf-a470-42c7-92cf-29ec55e6f436" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/share/normativka" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dd2af2b4-0635-4362-a30d-caab342f7983" name="magby" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAACEHKkXIqAWEW+PgawOKNTJ/g6dwN07jfOwEgv5uz6OJbAT3VP2wLpjOXCPkjK6ykVh0KRJXPMRA7lRsCyWWWOqKtA9DjF59wFVrTHYsXZtmqR5zs7USLuVgR8r2wxlyytswsGabZ18DmYiRX+Z2gQKrJCuRCpQ2M+vtBr/l5KPgpQUJOWPQt8U9YTXV/yqeHvZjCEth8isH48dQuwTNBS3jXXkpGmKoLdsgX82krEm+a8w8ukKZG1GTfDF4G4nK1+yOGrPnKGcX/fTLJ4sFdpLPu4BXnGxXR+WM2kbD9H9ofm+tL9qfmqNyjnnxYezCZwARTsDcGty9M5YDwojmAobMHFSYq8kn0cgHtbF7JPW2sRLFRfM9Fo/grpaVo3fVMr7HTftQI/mCYBFvLxSNArG+Qknav//b6/wpWg33aukUEpzq2eb976Xe5WbqTy0X1gfJPMl2TQ7+RXRpnhLYoBDuesJWR+DO6F3CpczDjjEEPQwxFUbG7dJ9gpbylLD1bHCgEfTIWE4CxZVSjj7tzfa2sLahsP8da0tMAzvT5I7d1Y83lgQtGWN2FFTMJLGJahGRDEwkckeWVdlbry47vF6SUQjzt5yjHOc4hiOZLGTfu71FkC13BVJ6eL4VTQpik77A8nMjVSzQzBjzMhBMEfmYDsS4+6prZyj17nF7B+AHI5F0sDPxPfReT6dIaKeKwr8RPRWiZgY7nJxYfcLTr51QU=</data>
+  </component>
+</application>
