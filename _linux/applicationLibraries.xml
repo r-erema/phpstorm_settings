@@ -1,22 +1,12 @@
 <application>
   <component name="libraryTable">
     <library name="backbone-associations-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone-associations_backbone-associations.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone-associations_backbone-associations.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="backbone-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
       </CLASSES>
