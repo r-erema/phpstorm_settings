@@ -25,20 +25,12 @@
           <option name="port" value="8022" />
         </fileTransfer>
       </webServer>
-      <webServer id="80e7decf-a470-42c7-92cf-29ec55e6f436" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
-        <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/share/normativka" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="dd2af2b4-0635-4362-a30d-caab342f7983" name="magby" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACEHZYzrNerndHNIUTdgN1OMOb3KY11p0fa7gcRpdAn208CodvnJMB6U7SZJGanFXxFuOyythZal9hiW3KWC8l3rLoyQABaEVgeMK1WGsfOMzYWvDXpF0zcAp+qWCVrlnrBkvu3/lY2KHLNgZDAHpBdJRQF2VzWitlYt/y+UKtM9/h3YE9hCMar5D8AJey00yq1eEiIMTUddrJpT3x0Xe0AblwPTVimWiz4lMATwvWWG63YtA02faH/nV7zVpMddITVXntNsnPHPvx/LFgZxqKWgVJKkLb4m4WecpKo+GGvlZAQ0K3X5PGg38FJ8bQ7dKw+ymfj9Kpo3Ar0+1Z6Vf5hJkzeQVFdp8EJgaHoNQsoy2Aescizt0G1Mkl7DZQVCUbU/Ip3l0Mib9RmkDPLHMsPvc7Z3UiwaXJadoX1+1wH7JsALpClOO2X06CQYlzejGnufVZnpcSeUgAZMMKPoZ1ZpYsQ/o+cECwwcwdg+AqweOlc/6H7K6UR5sQO2UlGikUaGOe8eKPSCzSh/fk/w0iXXsntQbsZp6IcfZxcrOphGBBf4wcnyliSdhlupewVq/wraofhUgYwxQ/1LFgJGj2PX/feo0AsQa0tpgSHqyAWRfL04osw4tLg/vWedxDhUt5cpBvUC4q6yMUJnVdKOAXeti+E5lMohSCDVhxrhAlnixQJgSXK2lgfMTZ3nuYfAeTU2LNmELuuBteMppObfrPjSg=</data>
+    <data>AAABkOilDrU4HCOucJYbwPthGms3rR0uaKC3Qe3yFohqwd41jxw5h7lk6BIYYQeIrI2IoHeJKp8pYrVWKqmtqXCHbpS0PKKw30RrlxyVaQ4948jAL8Fz72Ixndr1gW3TRsJzfaJaNLeFQvcIngsqd7BDn7lCIy3FGDesoCV4NHnTIqsIoVX3UFWBMC+FM1qvXOYIDvw6yt0M14xS+0QgFpQwn+AZgp/xcrTWuaZF0AFO8qQXrVRtH+GWeXK5TR3bPOIS5hiNUMij+nAuK1ARW8zCoIxMhe4xNmaKV+36mTqqh33EQpzLlR6lO94ZixFDr3i302xDvesysWXFf2ewBLR1Zm8BOL4Wsb+dyxTpT4RGyZzueMem0sqz22kQBkoRgRGj6T8VUmdzYrKTi0vrUHSeY61hjpbTlTlWrPe+5/nqr1WpYPwxAECLuuL6NCvMDuqrtQHcdiXw8PybGpr9hqJRLFgU/Jk+0E0WE8uZofXf6aMJn2CrQ5cUm01OOLpz7tOYz35AQpasyhu0RHdv9A0xVKM2mEdh7nSnCluDYzMJ2e2P</data>
   </component>
 </application>
