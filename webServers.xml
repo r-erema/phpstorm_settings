@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="f3ca6158-69c0-4add-ad8b-9e2d7b31f7f4" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="396f0c67-ebff-487f-8db7-e0b93db54983" name="gutsout@nr.commotools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="649d0b7f-f33f-453f-ae5c-23e66a73961d" name="profizru@ru.commontools.net" url="http://ru.commontools.net">
         <fileTransfer host="ru.commontools.net" port="22" rootFolder="/h/profizru" accessType="SFTP">
           <advancedOptions>
