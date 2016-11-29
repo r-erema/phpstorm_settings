@@ -28,6 +28,14 @@
       <webServer id="dd2af2b4-0635-4362-a30d-caab342f7983" name="magby" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="36ff8d04-8744-4554-9e47-51e8b0a1784e" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
