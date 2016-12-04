@@ -12,5 +12,60 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="masonry.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_masonry_3.3.2_masonry.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_masonry_3.3.2_masonry.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="node_modules" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="react" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_0.14.0_react.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react@15.3.0_dist_react.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_0.14.0_react.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react@15.3.0_dist_react.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_0.14.0_react-dom.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react-dom@15.3.0_dist_react-dom.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_react_0.14.0_react-dom.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react-dom@15.3.0_dist_react-dom.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>

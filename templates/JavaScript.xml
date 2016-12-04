@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($END$);" description="Inserts console.log() expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="gt" value="gulp.task('$END$', function() {&#10;    &#10;});" description="Inserts gulp.task() expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
