@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="80e7decf-a470-42c7-92cf-29ec55e6f436" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
-        <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/share/normativka" accessType="SFTP">
+        <fileTransfer host="nr.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/h/share/normativka" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
