@@ -52,8 +52,8 @@
       <webServer id="dd2af2b4-0635-4362-a30d-caab342f7983" name="magby" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="f719ca98-8c10-4a18-9996-5adaa9787aa8" name="gutsout@srv.commontools.net" url="http://srv.commontools.net">
-        <fileTransfer host="srv.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+      <webServer id="f719ca98-8c10-4a18-9996-5adaa9787aa8" name="securetower@srv.commontools.net" url="http://srv.commontools.net">
+        <fileTransfer host="srv.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/h/securetowerby" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
