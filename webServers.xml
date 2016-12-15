@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0d39ac27-3c0b-44b3-990a-30500522196b" name="falcongazecom@falcongaze.commontools.net" url="http://falcongaze.commontools.net">
+        <fileTransfer host="falcongaze.commontools.net" port="22" rootFolder="/h/falcongazecom" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="61aa0c10-d3f9-4043-8bb1-a451f9a290ff" name="gutsout@service.web" url="http://service.web">
+        <fileTransfer host="service.web" port="22" rootFolder="/home/gutsout" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="649d0b7f-f33f-453f-ae5c-23e66a73961d" name="profizru@ru.commontools.net" url="http://ru.commontools.net">
         <fileTransfer host="ru.commontools.net" port="22" rootFolder="/h/profizru" accessType="SFTP">
           <advancedOptions>
@@ -35,6 +51,14 @@
       </webServer>
       <webServer id="dd2af2b4-0635-4362-a30d-caab342f7983" name="magby" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f719ca98-8c10-4a18-9996-5adaa9787aa8" name="securetower@srv.commontools.net" url="http://srv.commontools.net">
+        <fileTransfer host="srv.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/h/securetowerby" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
