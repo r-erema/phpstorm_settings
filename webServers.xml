@@ -121,7 +121,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="0bfd519e-4e0f-4b18-be31-f2017b4ad952" name="srv-mail.commontools.net" url="http://srv-mail.commontools.net">
+      <webServer id="0bfd519e-4e0f-4b18-be31-f2017b4ad952" name="gutsout@srv-mail.commontools.net" url="http://srv-mail.commontools.net">
         <fileTransfer host="srv-mail.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
