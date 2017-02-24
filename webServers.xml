@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="369ade42-07f8-4fc3-9e95-7cfff97ca4ca" name="gutsout@texode.com" url="http://texode.com">
+        <fileTransfer host="texode.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="0c6a12c8-9319-44ff-b03f-abe5ad8f4828" name="falcongazecom@falcongaze.commontools.net (project level)" url="http://falcongaze.commontools.net">
         <fileTransfer host="falcongaze.commontools.net" port="22" rootFolder="/h/falcongazecom" accessType="SFTP">
           <advancedOptions>
