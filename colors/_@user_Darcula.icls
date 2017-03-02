@@ -3,7 +3,7 @@
     <property name="created">2017-03-02T13:41:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-02T14:57:53</property>
+    <property name="modified">2017-03-02T15:12:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -12,6 +12,8 @@
     <option name="SCOPE_KEY_Tests_unit">
       <value>
         <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="287b28" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
