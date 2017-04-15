@@ -6,47 +6,8 @@
           <option name="url" value="git@bitbucket.org:GutsOut/gos_sendbox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://GutsOut@bitbucket.org/GutsOut/gos_sendbox.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:GutsOut/tourneymaker.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:GutsOut/pg-mailing-maker.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:GutsOut/go-framework.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/modxcms/revolution.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:GutsOut/csv_handler.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:GutsOut/blog.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:pgby/texode.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:pgby/profigroup.by.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/h/" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="cloneParentDir" value="$USER_HOME$/h" />
   </component>
 </application>
