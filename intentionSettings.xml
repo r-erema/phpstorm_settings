@@ -1,9 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
-    <ignoreAction name="PHP/Inject language using PHPDoc" />
-    <ignoreAction name="PHP/Replace quotes" />
-    <ignoreAction name="PHP/Swap call arguments" />
-    <ignoreAction name="PHP/Import class" />
-  </component>
-</application>
