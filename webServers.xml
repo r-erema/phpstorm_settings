@@ -4,6 +4,9 @@
       <webServer id="e81f2bcb-c9cf-40ca-b482-7812f2d83ceb" name="gutsout.web" url="http://gutsout.web">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fd723efe-ac2c-4a29-95fe-4ec1f991cd6b" name="market-music" url="http://market-music.web">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
