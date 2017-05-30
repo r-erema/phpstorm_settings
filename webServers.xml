@@ -7,6 +7,9 @@
       <webServer id="fd723efe-ac2c-4a29-95fe-4ec1f991cd6b" name="market-music" url="http://market-music.web">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="aa8c26ca-03b3-42f4-8736-230bc40c7b81" name="tourneymaker.web" url="http://tourneymaker.web">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
