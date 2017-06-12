@@ -2,9 +2,7 @@
   <component name="libraryTable">
     <library name="express-DefinitelyTyped" type="javaScript">
       <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_express_index.d.ts" />
-        </sourceFilesUrls>
+        <option name="frameworkName" value="Node.js Core Modules" />
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_express_index.d.ts" />
@@ -13,6 +11,7 @@
     </library>
     <library name="express-serve-static-core-DefinitelyTyped" type="javaScript">
       <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_express-serve-static-core_index.d.ts" />
         </sourceFilesUrls>
@@ -22,8 +21,20 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="serve-static-DefinitelyTyped" type="javaScript">
       <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_serve-static_index.d.ts" />
         </sourceFilesUrls>
