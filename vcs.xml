@@ -7,10 +7,6 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:pgby/magby.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="git@bitbucket.org:GutsOut/public-games.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
