@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd004edc-a999-466b-bf32-e04dd8a1fc90" name="pracaby@praca-test.web" url="http://praca-test.web">
+        <fileTransfer host="praca-test.web" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
