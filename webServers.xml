@@ -9,6 +9,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ff13edd1-3a58-4212-8473-9ccfdcbe1337" name="gutsout@service.web" url="http://service.web">
+        <fileTransfer host="service.web" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f7b0380-5fea-4549-9f46-22ebf11a937c" name="securenews@ru01.commontools.net" url="http://ru01.commontools.net">
+        <fileTransfer host="ru01.commontools.net" port="9006" rootFolder="/h/securenews" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9006" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
