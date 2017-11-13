@@ -25,6 +25,14 @@
           <option name="port" value="9006" />
         </fileTransfer>
       </webServer>
+      <webServer id="a4c96dd1-3ad4-4d65-bca4-304e9834aa71" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
