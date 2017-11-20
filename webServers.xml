@@ -49,6 +49,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="be053412-a402-48e6-a251-dff20f2a4045" name="gutsout@ru.commontools.net" url="http://ru.commontools.net">
+        <fileTransfer host="ru.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ca66783b-3cda-449f-9989-e26682cb33b4" name="gutsout@profiz.commontools.net" url="http://profiz.commontools.net">
+        <fileTransfer host="profiz.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
