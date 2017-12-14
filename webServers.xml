@@ -9,6 +9,14 @@
           <option name="port" value="9003" />
         </fileTransfer>
       </webServer>
+      <webServer id="41922272-bd84-42f2-a398-8815f6fc6172" name="normativka@nr-test.web" url="http://nr-test.web">
+        <fileTransfer host="nr-test.web" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
