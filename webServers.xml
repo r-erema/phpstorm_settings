@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a1c95f44-0957-4281-b5b4-43ae638e2e60" name="securenews@ru01.commontools.net" url="http://ru01.commontools.net">
+        <fileTransfer host="ru01.commontools.net" port="9006" rootFolder="/h/securenews" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9006" />
+        </fileTransfer>
+      </webServer>
       <webServer id="75394b4e-87d4-4e55-b255-87fd603b3066" name="falcongazecom@falcongaze.commontools.net" url="http://falcongaze.commontools.net">
         <fileTransfer host="falcongaze.commontools.net" port="22" rootFolder="/h/falcongazecom" accessType="SFTP">
           <advancedOptions>
