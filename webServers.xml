@@ -1,23 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cd004edc-a999-466b-bf32-e04dd8a1fc90" name="pracaby@praca-test.web" url="http://praca-test.web">
-        <fileTransfer host="praca-test.web" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="ff13edd1-3a58-4212-8473-9ccfdcbe1337" name="gutsout@service.web" url="http://service.web">
-        <fileTransfer host="service.web" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="7f7b0380-5fea-4549-9f46-22ebf11a937c" name="securenews@ru01.commontools.net" url="http://ru01.commontools.net">
+      <webServer id="a1c95f44-0957-4281-b5b4-43ae638e2e60" name="securenews@ru01.commontools.net" url="http://ru01.commontools.net">
         <fileTransfer host="ru01.commontools.net" port="9006" rootFolder="/h/securenews" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -25,15 +9,7 @@
           <option name="port" value="9006" />
         </fileTransfer>
       </webServer>
-      <webServer id="a4c96dd1-3ad4-4d65-bca4-304e9834aa71" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
-        <fileTransfer host="nr.commontools.net" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d9ac6940-43d9-490a-89a6-c4ae941c37dd" name="falcongazecom@falcongaze.commontools.net" url="http://falcongaze.commontools.net">
+      <webServer id="75394b4e-87d4-4e55-b255-87fd603b3066" name="falcongazecom@falcongaze.commontools.net" url="http://falcongaze.commontools.net">
         <fileTransfer host="falcongaze.commontools.net" port="22" rootFolder="/h/falcongazecom" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -41,32 +17,40 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="147473ff-b730-4fe8-8df6-d425d1676017" name="normativka@nr-test.web" url="http://nr-test.web">
-        <fileTransfer host="nr-test.web" port="22" rootFolder="/h/normativka" accessType="SFTP">
+      <webServer id="53d34f51-154a-41b2-9b42-85cdd923ab71" name="gutsout@ru-forums.commontools.net" url="http://109.234.153.10">
+        <fileTransfer host="109.234.153.10" port="9003" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9003" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="41922272-bd84-42f2-a398-8815f6fc6172" name="normativka@nr-test.web" url="http://nr-test.web">
+        <fileTransfer host="nr-test.web" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="be053412-a402-48e6-a251-dff20f2a4045" name="gutsout@ru.commontools.net" url="http://ru.commontools.net">
-        <fileTransfer host="ru.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+      <webServer id="34ea1b99-94ae-46f8-829c-4e55a4818436" name="profizru@profiz.commontools.net" url="http://profiz.commontools.net">
+        <fileTransfer host="profiz.commontools.net" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ca66783b-3cda-449f-9989-e26682cb33b4" name="gutsout@profiz.commontools.net" url="http://profiz.commontools.net">
-        <fileTransfer host="profiz.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+      <webServer id="5cd9bdc2-1734-4dd5-8661-260351e7ae36" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="76f251f7-a1b6-40a5-a80f-c2a761b8a345" name="pracaby@praca-test2.web" url="http://praca-test2.web">
-        <fileTransfer host="praca-test2.web" port="22" accessType="SFTP">
+      <webServer id="98b47dcc-3f5f-46b5-ba48-e9874b718aed" name="gutsout@service.web" url="http://service.web">
+        <fileTransfer host="service.web" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
