@@ -1,8 +1,24 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="847a2675-a52a-45af-91d5-9307eb1c1895" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
+        <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/normativka" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="f9358a7d-045a-4cdc-a63a-a1d2f61dcbe8" name="magby@magby.commontools.net" url="http://magby.commontools.net">
         <fileTransfer host="magby.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b730a0be-3e1e-41f5-a38e-4225dc5c95a8" name="praca@praca.commontools.net" url="http://praca.commontools.net">
+        <fileTransfer host="praca.commontools.net" port="22" rootFolder="/h/pracaby" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
