@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="58ec38d7-aa67-4c53-ae36-dad9bee24a0d" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
-        <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/normativka" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="02e926de-e4b3-4b07-94f8-2767a52ef49a" name="localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
