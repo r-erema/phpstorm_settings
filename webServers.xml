@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="3df59003-5b93-4a4a-a0ec-0061b9c9f457" name="falcongazecom@falcongaze.commontools.net" url="http://falcongaze.commontools.net">
+        <fileTransfer host="falcongaze.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/h/falcongazecom" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
