@@ -51,8 +51,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="gutsout" />
+          <option name="url" value="git@github.com:GutsOut/rackbeat-test-02-my.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
