@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="movies" type="PLAIN_TEXT" />
       <mapping pattern="normativka" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
