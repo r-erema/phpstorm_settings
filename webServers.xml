@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7ba3bf09-c4ac-44bd-9d36-b73652f20848" name="gutsout@service.web" url="http://service.web">
+        <fileTransfer host="service.web" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/gutsout" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
