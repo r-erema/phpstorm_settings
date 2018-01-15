@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="252cca83-c2aa-4f3c-bc49-8edee0c682dd" name="gutsout@texode.com" url="http://texode.com">
+        <fileTransfer host="texode.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/h/falcongazecom" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
