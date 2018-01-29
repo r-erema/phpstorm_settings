@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern="sqlinj" type="PLAIN_TEXT" />
       <mapping pattern="search" type="PLAIN_TEXT" />
-      <mapping pattern="movies" type="PLAIN_TEXT" />
       <mapping pattern="normativka" type="PLAIN_TEXT" />
+      <mapping pattern="movies" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="blade,php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
