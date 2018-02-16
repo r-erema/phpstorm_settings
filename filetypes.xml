@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bson" type="JSON" />
+      <mapping pattern="id_rsa_padelzoom" type="PLAIN_TEXT" />
       <mapping pattern="sqlinj" type="PLAIN_TEXT" />
       <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern="normativka" type="PLAIN_TEXT" />
