@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="bson" type="JSON" />
       <mapping pattern="movies" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="normativka" type="PLAIN_TEXT" />
       <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
