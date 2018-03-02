@@ -57,8 +57,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="dc37fc33-d22a-4da0-ba33-7e1fbeb5e88a" name="normativka@nr-test2.web" url="http://nr-test2.web">
-        <fileTransfer host="nr-test2.web" port="22" rootFolder="/h/normativka" accessType="SFTP">
+      <webServer id="dc37fc33-d22a-4da0-ba33-7e1fbeb5e88a" name="normativka@nr-test2.web" url="http://nr-test.web">
+        <fileTransfer host="nr-test.web" port="22" rootFolder="/h/normativka" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -90,6 +90,14 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="18765" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ca94cfe4-d521-405a-b94a-46ef760386b4" name="normativka@nr-test.web" url="http://nr-test2.web">
+        <fileTransfer host="nr-test2.web" port="22" rootFolder="/h/normativka" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
