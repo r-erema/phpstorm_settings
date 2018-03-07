@@ -100,6 +100,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1762690a-9195-4fb5-bd05-6d819839097b" name="securenews@ru01.commontools.net" url="http://ru01.commontools.net">
+        <fileTransfer host="ru01.commontools.net" port="9006" rootFolder="/h/securenews" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9006" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
