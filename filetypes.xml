@@ -7,6 +7,7 @@
       <mapping pattern="normativka" type="PLAIN_TEXT" />
       <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern="sqlinj" type="PLAIN_TEXT" />
       <mapping pattern="php_errorlog" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_padelzoom" type="PLAIN_TEXT" />
@@ -15,9 +16,12 @@
       <mapping ext="15" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="spd" type="PLAIN_TEXT" />
       <mapping ext="blade,php" type="PLAIN_TEXT" />
       <mapping ext="77777" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="spi" type="PLAIN_TEXT" />
+      <mapping ext="spa" type="PLAIN_TEXT" />
       <mapping ext="555" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
