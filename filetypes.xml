@@ -2,19 +2,20 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bson" type="JSON" />
+      <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
       <mapping pattern="movies" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="normativka" type="PLAIN_TEXT" />
-      <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="BodyParameterForPost" type="PLAIN_TEXT" />
+      <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
-      <mapping pattern="sqlinj" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="php_errorlog" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_padelzoom" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="sqlinj" type="PLAIN_TEXT" />
+      <mapping pattern="BodyParameterForPost" type="PLAIN_TEXT" />
+      <mapping pattern="normativka" type="PLAIN_TEXT" />
       <mapping ext="15" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
