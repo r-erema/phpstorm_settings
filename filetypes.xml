@@ -10,6 +10,7 @@
       <mapping pattern="BodyParameterForPost" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="php_errorlog" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_padelzoom" type="PLAIN_TEXT" />
       <mapping pattern="normativka" type="PLAIN_TEXT" />
