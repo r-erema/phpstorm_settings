@@ -50,7 +50,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="c13b10ba-b583-4c3f-a11b-baafb3d5b965" name="profizru@profiz.commontools.net" url="http://profiz.commontools.net">
-        <fileTransfer host="profiz.commontools.net" port="22" rootFolder="/h/falcongazecom" accessType="SFTP">
+        <fileTransfer host="profiz.commontools.net" port="22" rootFolder="/h/profizru" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
