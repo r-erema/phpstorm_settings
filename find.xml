@@ -15,5 +15,6 @@
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*mobile.phtml</mask>
+    <mask>layout.phtm</mask>
   </component>
 </application>
