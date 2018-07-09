@@ -12,9 +12,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>layout.phtm</mask>
     <mask>*mobile.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
