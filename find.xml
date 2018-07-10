@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*mobile.phtml" />
+    <option name="FILE_MASK" value="all-in-one.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +17,6 @@
     <mask>layout.phtm</mask>
     <mask>*.php</mask>
     <mask>*mobile.phtml</mask>
+    <mask>all-in-one.js</mask>
   </component>
 </application>
