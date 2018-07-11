@@ -15,7 +15,7 @@
     <mask>*.phtml</mask>
     <mask>layout.phtm</mask>
     <mask>*.php</mask>
-    <mask>*mobile.phtml</mask>
     <mask>all-in-one.js</mask>
+    <mask>*mobile.phtml</mask>
   </component>
 </application>
