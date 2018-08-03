@@ -14,8 +14,8 @@
     <mask>layout.phtm</mask>
     <mask>*mobile.phtml</mask>
     <mask>all-in-one.js</mask>
-    <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
