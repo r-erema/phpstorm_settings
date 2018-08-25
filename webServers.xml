@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="f4935434-6fb8-49a9-9f6e-95ad5ea4ca05" name="gutsout.net" url="http://213.159.214.236">
+        <fileTransfer host="213.159.214.236" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="847a2675-a52a-45af-91d5-9307eb1c1895" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
         <fileTransfer host="nr.commontools.net" port="22" rootFolder="/h/normativka" accessType="SFTP">
           <advancedOptions>
@@ -73,24 +81,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="14a879f6-e084-49e5-a17d-b33df3c86a2d" name="[padelzoom]nowisweb@109.199.120.75" url="http://109.199.120.75">
-        <fileTransfer host="109.199.120.75" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="7d626f7a-a77e-48fe-8255-4fd8e9532edc" name="http://localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="6c5b78bb-1a7b-436d-9a6d-e4787a7beef3" name="[padelzoom]nowisweb@109.199.120.75 (1)" url="http://109.199.120.75">
-        <fileTransfer host="109.199.120.75" port="18765" privateKey="$USER_HOME$/.ssh/padelzoom.private" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="18765" />
-        </fileTransfer>
       </webServer>
       <webServer id="ca94cfe4-d521-405a-b94a-46ef760386b4" name="normativka@nr-test.web" url="http://nr-test2.web">
         <fileTransfer host="nr-test2.web" port="22" rootFolder="/h/normativka" accessType="SFTP">
