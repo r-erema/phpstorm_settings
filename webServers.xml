@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="92755835-3c7b-4fd6-9110-7d043e45ef7b" name="praca@praca-test3.web" url="http://praca-test3.web">
+        <fileTransfer host="praca-test3.web" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
