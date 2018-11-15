@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6447d0ce-dd35-4c4d-8665-b39a3cfadf20" name="gutsout@ru-forums.commontools.net" url="http://109.234.153.10">
+        <fileTransfer host="109.234.153.10" port="9003" privateKey="$USER_HOME$/.ssh/id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9003" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
