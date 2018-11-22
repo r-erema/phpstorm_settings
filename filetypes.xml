@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sqlc" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
