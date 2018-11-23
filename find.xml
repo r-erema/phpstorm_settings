@@ -16,8 +16,8 @@
     <mask>*.tpl</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
-    <mask>*.phtml</mask>
     <mask>*mobile.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
