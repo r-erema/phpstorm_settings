@@ -60,6 +60,14 @@
       <webServer id="efc59591-6c14-4a2a-aa76-042982df438e" name="ru-forums" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="84aff1f4-1586-4f3b-aa10-59abc7b8ffa5" name="falcongazecom@falcongazecom.commontools.net" url="http://falcongaze.commontools.net">
+        <fileTransfer host="falcongaze.commontools.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
