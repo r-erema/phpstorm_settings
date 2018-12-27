@@ -1,8 +1,15 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="DockerUnixSocket" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="DockerDockerMachine" type="docker">
+      <configuration>
+        <option name="apiUrl" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
   </component>
