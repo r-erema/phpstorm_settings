@@ -57,9 +57,6 @@
           <option name="port" value="9003" />
         </fileTransfer>
       </webServer>
-      <webServer id="efc59591-6c14-4a2a-aa76-042982df438e" name="ru-forums" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="84aff1f4-1586-4f3b-aa10-59abc7b8ffa5" name="falcongazecom@falcongazecom.commontools.net" url="http://falcongaze.commontools.net">
         <fileTransfer host="falcongaze.commontools.net" port="22" accessType="SFTP">
           <advancedOptions>
@@ -70,6 +67,14 @@
       </webServer>
       <webServer id="a649d1bf-e62e-455a-879a-efdb79b67450" name="normativka@nr.commontools.net" url="http://nr.commontools.net">
         <fileTransfer host="nr.commontools.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="71d2c400-9d58-4116-a43a-ff2003f8b6af" name="magby@magby.commontools.net" url="http://magby.commontools.net">
+        <fileTransfer host="magby.commontools.net" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
