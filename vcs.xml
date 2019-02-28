@@ -159,6 +159,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/h" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
