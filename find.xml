@@ -12,8 +12,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>layout.phtm</mask>
-    <mask>*mobile.phtml</mask>
     <mask>all-in-one.js</mask>
+    <mask>*.tpl</mask>
+    <mask>*mobile.phtml</mask>
+    <mask>*.less</mask>
+    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
