@@ -15,10 +15,10 @@
     <mask>all-in-one.js</mask>
     <mask>*.tpl</mask>
     <mask>*mobile.phtml</mask>
-    <mask>*.less</mask>
     <mask>*.scss</mask>
-    <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
