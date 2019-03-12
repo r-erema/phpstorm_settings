@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c157afa1-8235-40df-8f1c-983b03d0781a" name="gutsout@ru.commontools.net" url="http://ru.commontools.net">
+        <fileTransfer host="ru.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
