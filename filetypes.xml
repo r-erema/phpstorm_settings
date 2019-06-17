@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
