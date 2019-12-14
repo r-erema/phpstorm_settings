@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="3bdaef63-8cc9-4627-b518-e4146d6a374c" name="firstvds" url="http://82.146.53.111">
+        <fileTransfer host="82.146.53.111" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="05b47ed2-2985-4f51-80e3-545833e907ee" name="gutsout@blog.commontools.net" url="http://blog.commontools.net">
         <fileTransfer host="blog.commontools.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
