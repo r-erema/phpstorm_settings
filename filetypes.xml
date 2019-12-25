@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="entities_mapping" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="grabdata" type="PLAIN_TEXT" />
+      <mapping pattern="entities_mapping" type="PLAIN_TEXT" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
       <mapping ext="pid" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
