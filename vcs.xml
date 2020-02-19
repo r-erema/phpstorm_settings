@@ -102,6 +102,10 @@
           <option name="url" value="git@bitbucket.svyaz.me:7999/dev/devops.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://roma.a.erema%40gmail.com@bitbucket.svyaz.me/scm/dev/event_consumer_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/h" />
