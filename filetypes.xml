@@ -8,6 +8,7 @@
       <mapping pattern="NeirikaDB" type="PLAIN_TEXT" />
       <mapping pattern="opensips/cfg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
