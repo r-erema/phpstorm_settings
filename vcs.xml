@@ -146,9 +146,13 @@
           <option name="url" value="git@github.com:infusion/PHP-Daemon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.itechart-group.com/d6.g3/room-booking-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/h" />
+    <option name="cloneParentDir" value="$USER_HOME$/h/RoomBot" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
