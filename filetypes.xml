@@ -6,6 +6,7 @@
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="tvars" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
