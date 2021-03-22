@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="env-prod" type="PLAIN_TEXT" />
       <mapping pattern="Drawer" type="PLAIN_TEXT" />
@@ -9,10 +9,6 @@
       <mapping ext="tvars" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
