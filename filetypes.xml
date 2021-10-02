@@ -10,6 +10,7 @@
       <mapping ext="tvars" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
