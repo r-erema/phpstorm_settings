@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Makfile" type="AUTO_DETECTED" />
       <mapping pattern="react" type="PLAIN_TEXT" />
       <mapping pattern="Drawer" type="PLAIN_TEXT" />
       <mapping pattern="env-prod" type="PLAIN_TEXT" />
